@@ -1,0 +1,86 @@
+   time:1507621991528ms   label:U
+   time:1507622003648ms   label:g   X=397   Y=328   dX=78   dY=50
+   time:1507622004374ms   label:G   X=397   Y=328   dX=78   dY=50
+   time:1507622018570ms   label:h   X=1238   Y=384   dX=74   dY=87
+   time:1507622018768ms   label:H   X=1238   Y=384   dX=74   dY=87
+   time:1507622019425ms   label:y   X=1035   Y=420   dX=28   dY=61
+   time:1507622019623ms   label:Y   X=1035   Y=420   dX=28   dY=61
+   time:1507622020520ms   label:m   X=838   Y=362   dX=77   dY=71
+   time:1507622020717ms   label:M   X=838   Y=362   dX=77   dY=71
+   time:1507622021296ms   label:b   X=678   Y=419   dX=52   dY=52
+   time:1507622021491ms   label:B   X=678   Y=419   dX=51   dY=52
+   time:1507622022050ms   label:r   X=652   Y=40   dX=54   dY=89
+   time:1507622022248ms   label:R   X=652   Y=40   dX=54   dY=89
+   time:1507622024380ms   label:Z
+   time:1507622026477ms   label:U
+   time:1507622044175ms   label:h   X=1238   Y=384   dX=49   dY=86
+   time:1507622044373ms   label:H   X=1238   Y=384   dX=49   dY=86
+   time:1507622044887ms   label:c   X=1029   Y=460   dX=110   dY=68
+   time:1507622045085ms   label:C   X=1029   Y=460   dX=110   dY=68
+   time:1507622045727ms   label:r   X=1009   Y=269   dX=94   dY=101
+   time:1507622045925ms   label:R   X=1009   Y=269   dX=94   dY=101
+   time:1507622046698ms   label:p   X=679   Y=104   dX=53   dY=78
+   time:1507622046897ms   label:P   X=679   Y=104   dX=53   dY=78
+   time:1507622047412ms   label:b   X=460   Y=140   dX=72   dY=68
+   time:1507622047610ms   label:B   X=460   Y=140   dX=72   dY=68
+   time:1507622048088ms   label:y   X=262   Y=22   dX=102   dY=89
+   time:1507622048285ms   label:Y   X=262   Y=22   dX=102   dY=89
+   time:1507622050431ms   label:Z
+   time:1507622052598ms   label:U
+   time:1507622174660ms   label:C   X=394   Y=92   dX=71   dY=45
+   time:1507622180986ms   label:b   X=522   Y=128   dX=74   dY=54
+   time:1507622181200ms   label:B   X=522   Y=128   dX=74   dY=54
+   time:1507622185131ms   label:r   X=684   Y=102   dX=36   dY=62
+   time:1507622185402ms   label:R   X=684   Y=102   dX=36   dY=62
+   time:1507622192704ms   label:y   X=692   Y=291   dX=42   dY=39
+   time:1507622192903ms   label:Y   X=692   Y=291   dX=42   dY=39
+   time:1507622287310ms   label:g   X=1076   Y=478   dX=22   dY=69
+   time:1507622287508ms   label:G   X=1076   Y=478   dX=22   dY=69
+   time:1507622288237ms   label:h   X=1238   Y=384   dX=78   dY=57
+   time:1507622288434ms   label:H   X=1238   Y=384   dX=78   dY=57
+   time:1507622290588ms   label:Z
+   time:1507622292753ms   label:U
+   time:1507622295866ms   label:h   X=1238   Y=384   dX=60   dY=66
+   time:1507622296062ms   label:H   X=1238   Y=384   dX=60   dY=66
+   time:1507622296693ms   label:p   X=1093   Y=256   dX=54   dY=96
+   time:1507622296901ms   label:P   X=1093   Y=256   dX=53   dY=96
+   time:1507622297292ms   label:y   X=815   Y=391   dX=77   dY=49
+   time:1507622297490ms   label:Y   X=815   Y=391   dX=77   dY=49
+   time:1507622298275ms   label:c   X=560   Y=505   dX=53   dY=65
+   time:1507622298472ms   label:C   X=560   Y=505   dX=53   dY=65
+   time:1507622298974ms   label:m   X=373   Y=398   dX=82   dY=81
+   time:1507622299162ms   label:M   X=373   Y=398   dX=82   dY=81
+   time:1507622299572ms   label:r   X=346   Y=173   dX=67   dY=92
+   time:1507622299770ms   label:R   X=346   Y=173   dX=67   dY=92
+   time:1507622301931ms   label:Z
+   time:1507622304152ms   label:U
+   time:1507622308012ms   label:h   X=1238   Y=384   dX=56   dY=42
+   time:1507622308210ms   label:H   X=1238   Y=384   dX=56   dY=42
+   time:1507622308948ms   label:p   X=938   Y=391   dX=38   dY=69
+   time:1507622309147ms   label:P   X=938   Y=391   dX=38   dY=69
+   time:1507622309598ms   label:c   X=706   Y=353   dX=28   dY=56
+   time:1507622309795ms   label:C   X=706   Y=353   dX=28   dY=56
+   time:1507622310299ms   label:r   X=862   Y=122   dX=35   dY=91
+   time:1507622310496ms   label:R   X=862   Y=122   dX=35   dY=91
+   time:1507622310960ms   label:g   X=577   Y=307   dX=46   dY=74
+   time:1507622311158ms   label:G   X=577   Y=307   dX=46   dY=74
+   time:1507622311647ms   label:b   X=265   Y=215   dX=77   dY=107
+   time:1507622311845ms   label:B   X=265   Y=215   dX=77   dY=107
+   time:1507622314109ms   label:Z
+   time:1507622316261ms   label:U
+   time:1507622318122ms   label:h   X=1238   Y=384   dX=52   dY=48
+   time:1507622318345ms   label:H   X=1238   Y=384   dX=52   dY=48
+   time:1507622319157ms   label:b   X=1038   Y=194   dX=80   dY=94
+   time:1507622319369ms   label:B   X=1038   Y=194   dX=80   dY=94
+   time:1507622319821ms   label:y   X=881   Y=208   dX=43   dY=99
+   time:1507622320018ms   label:Y   X=881   Y=208   dX=43   dY=99
+   time:1507622320459ms   label:c   X=648   Y=109   dX=43   dY=86
+   time:1507622320656ms   label:C   X=648   Y=109   dX=43   dY=86
+   time:1507622321043ms   label:p   X=470   Y=239   dX=92   dY=58
+   time:1507622321241ms   label:P   X=470   Y=239   dX=92   dY=58
+   time:1507622321682ms   label:r   X=510   Y=26   dX=82   dY=61
+   time:1507622321881ms   label:R   X=510   Y=26   dX=82   dY=61
+   time:1507622324021ms   label:Z
+   time:1507622326187ms   label:U
+   time:1507622330015ms   label:h   X=1238   Y=384   dX=36   dY=45
+   time:1507622330198ms   label:H   X=1238   Y=384   dX=36   dY=45
